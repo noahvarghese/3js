@@ -4,6 +4,25 @@ import {
 } from "@react-three/fiber";
 import './App.css';
 
+
+function Box(props) {
+  return ( <
+    mesh >
+    <
+    boxBufferGeometry arg = {
+      [2, 2, 2]
+    }
+    /> <
+    meshPhongMaterial color = "blue"
+    shininess = {
+      100
+    }
+    /> <
+    /mesh>
+  );
+}
+
+
 function App() {
   return ( <
     Canvas >
@@ -26,15 +45,8 @@ function App() {
       0.5
     }
     /> <
-    mesh >
+    Box / >
     <
-    boxBufferGeometry arg = {
-      [2, 2, 2]
-    }
-    /> <
-    meshStandardMaterial color = "blue" / >
-    <
-    /mesh> <
     /Canvas>
   );
 
