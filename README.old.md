@@ -1,6 +1,14 @@
 # 3JS Demo
 
-## Resources
+## Knowledge
+
+React-three-fiber allows not having to setup camera and rendering 
+
+Camera points at convas
+
+Uses Cartesian plane
+
+## Packages 
 
 Using:
 - react 
