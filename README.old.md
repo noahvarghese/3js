@@ -38,3 +38,8 @@ https://codesandbox.io/s/threejs-starter-d233i?file=/src/App.js
 <!-- Final -->
 
 https://codesandbox.io/s/threejs-final-s96yy?file=/src/index.js
+
+## Resources
+
+Final - https://codesandbox.io/s/threejs-final-s96yy?file=/src/App.js
+Starter - https://codesandbox.io/s/threejs-starter-d233i?file=/src/index.js
