@@ -41,5 +41,11 @@ https://codesandbox.io/s/threejs-final-s96yy?file=/src/index.js
 
 ## Resources
 
+Checkout more packages
+react-three-cannon
+react-spring
+react-use-gesture
+leva
+
 Final - https://codesandbox.io/s/threejs-final-s96yy?file=/src/App.js
 Starter - https://codesandbox.io/s/threejs-starter-d233i?file=/src/index.js
